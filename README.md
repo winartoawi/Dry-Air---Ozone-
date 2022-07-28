@@ -1,5 +1,5 @@
 # Dry-Air Silica gel
-Dry Air system - cost down project during internship
+Dry Air system - project during internship
 
 
 The project intends to practice re-using silica gel adsorption to produce pure oxygen gas - prototype version 
