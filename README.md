@@ -28,3 +28,6 @@ the system is coded with C++ programming language interfaced using arduino IDE a
 
 in this repository shows only the contribution code on MCU with basic programming logic at the time.
 the project was done during internship period - Bachelor of Mechatronics 3rd year.
+
+Disclosure details on internship company
+Credits - T.T. Beng (supervisior)
