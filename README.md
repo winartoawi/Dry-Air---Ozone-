@@ -17,7 +17,7 @@ the objective of the system is to efficiently produce oxygen with a low-cost mat
 
 ![image](https://user-images.githubusercontent.com/43923087/181508652-af9c1ac3-5bae-4017-afc5-b708346d8789.png)
 
-- the initial motivation of the project is to reach lower concentration of oxygen in comparison to industrial technique of oxygen concentrator called Pressure Swing Adsorption (PSA). 
+- the initial motivation of the project is to reach lower concentration of oxygen in comparison to industrial technique - oxygen concentrator called Pressure Swing Adsorption (PSA). 
 
 ![image](https://user-images.githubusercontent.com/43923087/181509159-15c182c8-f5f1-49ed-b18b-3f5ec90035cd.png)
 
