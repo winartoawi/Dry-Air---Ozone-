@@ -1,4 +1,4 @@
-# Dry-Air Ozone
+# Dry-Air Silica gel
 Dry Air system - cost down project during internship
 
 
