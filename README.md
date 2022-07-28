@@ -14,7 +14,7 @@ simple sensing unit such as DHT 11 to sense
 - air flow 
 
 the objective of the system is to efficiently produce oxygen with a low-cost material with reheatable silica gel. 
-- the use of silica gel is to serve as filtration gas and produces only oxygen.
+- the use of silica gel is to serve as filtration gas and produce as much oxygen.
 - while silica gel is reusable by reheating at temperature of 120 deg celcius turning from dark green (saturated - moisture) to orange (unsaturated - ready-use) color indication. 
 
 ![image](https://user-images.githubusercontent.com/43923087/181508652-af9c1ac3-5bae-4017-afc5-b708346d8789.png)
