@@ -7,9 +7,11 @@ The project intends to practice re-using silica gel adsorption to produce pure o
 the system uses a simple microcontroller unit with atmega chip similar to arduino microcontroller controlling 
 - air flow (valves)
 - heating element 
-and a simple sensing unit such as DHT 11 to sense 
+
+simple sensing unit such as DHT 11 to sense 
 - humidity
 - temperature 
+- air flow 
 
 the objective of the system is to efficiently produce oxygen with a low-cost material with reheatable silica gel. 
 - the use of silica gel is to serve as filtration gas and produces only oxygen.
